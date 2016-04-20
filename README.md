@@ -21,6 +21,8 @@ Currently the process to spin up a classroom is the following:
 - Run the command `curl -w "\n" 'https://discovery.etcd.io/new?size=<insert the number of student nodes + 1 here>'`
   e.g. `curl -w "\n" 'https://discovery.etcd.io/new?size=45'`
 
+- Paste the output of your curl command into the `disco` variable in `terraform.tfvars`
+
 - Run the command `terraform apply -parallelism=<total node count>`
   e.g. `terraform apply -parallelism=45`
 
