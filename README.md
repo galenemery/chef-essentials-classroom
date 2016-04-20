@@ -30,8 +30,11 @@ Voila! You should have a classroom!
 
 Students should be able to log into the URL of the guacamole server with
 
+
 Username: chef
+
 Password: chef
+
 
 The url should look something like this:
 
