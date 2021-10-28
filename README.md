@@ -1,5 +1,7 @@
 # chef-essentials-classroom
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/55b15e84-54b7-4a7d-9f59-8b9693aa2ba9.svg)](https://app.soluble.cloud/repos/details/github.com/galenemery/chef-essentials-classroom)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/a8d86f1c-1a95-4497-bb49-a06f0123df05.svg)](https://app.soluble.cloud/repos/details/github.com/galenemery/chef-essentials-classroom)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/bc37e238-00b6-4c09-8d5d-0f5f6b8a690d.svg)](https://app.soluble.cloud/repos/details/github.com/galenemery/chef-essentials-classroom)  
+
 This repo contains all the components required to build Chef Essentials (Linux) training environments.
 
 /cookbooks => Contains the build cookbook for configuring Chef Workstation and Chef Node images
